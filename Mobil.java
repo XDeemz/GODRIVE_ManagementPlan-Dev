@@ -23,3 +23,4 @@ public class Mobil extends Kendaraan{
       return lamaSewa*getHargaSewaPerHari();
     }
 }
+
